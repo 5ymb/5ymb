@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Cybersecurity at TU
 - 📫 How to reach me Insta: 5ym.b
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I LOVE VIDEO GAMES AND PC PLAYER
+- ⚡ Fun fact: I LOVE VIDEO GAMES AND I'M PC PLAYER
