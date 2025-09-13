@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @5ymb
-- 👀 I’m interested in Cybersecurity and programing (video game specially)
+- 👀 I’m interested in Cybersecurity and programing (video games specially)
 - 🌱 I’m currently learning Cybersecurity at TU
-- 📫 How to reach me Insta: 5ym.b
+- 📫 How to reach me LinkedIn: Abdulqader Deawaly
 - ⚡ Fun fact: I LOVE VIDEO GAMES AND I'M PC PLAYER
