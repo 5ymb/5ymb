@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @5ymb (Abdulqader)
 
-- 🎮 I'm a PC gamer who loves video games and problem solving.
-- 🛡️ Student of Cybersecurity — currently studying Network & Offensive Security, in near futuer i'll study Defensive Security.
-- 🧠 Interested in: Penetration Testing, Network Security, Incedent Response, and Clouding.
+- 🎮 I'm a PC gamer who loves video games and problem-solving.
+- 🛡️ Student of Cybersecurity — currently studying Network & Offensive Security, in the near future, I'll study Defensive Security.
+- 🧠 Interested in: Penetration Testing, Network Security, Incident Response, and Cloud Security.
 - 🛠️ Skills: `Linux` · `Networking` · `Java` · `Bash` · `Nmap` · `Wireshark` · `Packet Tracer` . `Python`
 - 🌱 Currently learning: Advanced network security & red teaming techniques.
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/abdulqader-deawaly-5b161536b/) · [Tryhackme](https://tryhackme.com/p/5y)
