@@ -5,7 +5,7 @@
 - 🧠 Interested in: Penetration Testing, Network Security, Incident Response, and Cloud Security.
 - 🛠️ Skills: `Linux` · `Networking` · `Java` · `Bash` · `Nmap` · `Wireshark` · `Packet Tracer` . `Python`
 - 🌱 Currently learning: Advanced network security & red teaming techniques.
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/abdulqader-deawaly-5b161536b/) · [Tryhackme](https://tryhackme.com/p/5y)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/abdulqader-deawaly-5b161536b/) · [Tryhackme](https://tryhackme.com/p/5y) · [X](https://x.com/5ymmb)
 - ⚡ Fun fact: I started gaming at age 5 and still love building things.
 
 ---
