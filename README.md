@@ -10,8 +10,9 @@
 
 ---
 
-## TryHackMe / Certifications
-- 📜 Tryhackme Certifications:  [Jr Pentester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PXYLNWXCDP.pdf) - [Cyber Security 101](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YCBQEA4QTU.pdf)
+## Certifications
+- Tryhackme:  [Jr Pentester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PXYLNWXCDP.pdf) - [Cyber Security 101](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YCBQEA4QTU.pdf)
+- Red Team Leaders: [CCEP](https://courses.redteamleaders.com/exam-completion/b7ab073a8b03a313)
 ---
 
 ## Want to collaborate?
