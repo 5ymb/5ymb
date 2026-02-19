@@ -32,6 +32,7 @@ I’m a very **outgoing person** and I love meeting new people in the tech commu
     <img src="https://img.shields.io/badge/-Coding-black?style=flat&logo=codeforces&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   </p>
 
