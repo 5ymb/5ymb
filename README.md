@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>👋 Hi, I’m @5ymb (Abdulqader)</h1>
+  <h1>👋 Hello, I'm Abdulqader (5ymb)</h1>
   <p align="center">
-    <b>Cybersecurity Student | Aspiring Red Teamer | Problem Solver</b><br>
-    <i>Currently specializing in Network & Offensive Security</i>
+    <b>Security Researcher | Network Enthusiast | Lifelong Gamer</b><br>
+    <i>"Breaking boundaries and building bridges in the world of Cyber Security."</i>
   </p>
 
   <p align="center">
@@ -14,58 +14,66 @@
 
 <hr />
 
-### 🛡️ About Me
-I am a dedicated **Cybersecurity Student** with a passion for understanding how systems work—and how to break them safely. My journey started with a love for PC gaming and complex problem-solving at age 5, which evolved into a career path in **Red Teaming** and **Penetration Testing**.
+### 👨‍💻 About Me
+I am a **Cybersecurity Specialist** currently honing my skills in Network and Offensive Security. My journey is fueled by a deep-seated love for problem-solving—a trait I've carried since I first picked up a controller at age five. 
 
-* 🎮 **Interests:** Penetration Testing, Incident Response, and Cloud Security.
-* 🌱 **Currently Learning:** Advanced Red Teaming techniques and Defensive Security frameworks.
-* ⚡ **Fun Fact:** I treat every network audit like a high-stakes strategy game.
+Beyond the terminal, I’m an **outgoing and community-driven learner**. I believe that the best security is built through collaboration and shared knowledge. Whether it's competing in CTFs or discussing the latest vulnerabilities on X, I thrive in environments where I can learn from others and share my own insights.
+
+* 🎯 **Focus:** Transitioning from Red Teaming excellence to a holistic Defensive Security mindset.
+* 🤝 **Outgoing:** Active participant in the global security community and always down for a technical brainstorm.
+* ⚡ **Philosophy:** Security is a team sport. Let's win together.
 
 <hr />
 
-### 🛠️ Tech Stack & Toolbelt
+### 🛠️ Technical Arsenal
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="25%"><b>Languages</b></td>
-    <td align="center" width="25%"><b>Networking</b></td>
-    <td align="center" width="25%"><b>Security Tools</b></td>
-    <td align="center" width="25%"><b>OS & Infra</b></td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" />
+    <td width="50%" valign="top">
+      <h4>💻 Programming & Scripting</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-005A70?style=flat" /><br>
-      <img src="https://img.shields.io/badge/TCP/IP-blue?style=flat" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Nmap-006400?style=flat" /><br>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Metasploit-BF1E2D?style=flat" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white" />
+    <td width="50%" valign="top">
+      <h4>🌐 Networking & Infrastructure</h4>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cisco-005A70?style=for-the-badge&logo=cisco&logoColor=white" />
     </td>
   </tr>
 </table>
 
+<br />
+
+<div align="center">
+  <h4>🛡️ Security & Analysis Tools</h4>
+  <img src="https://img.shields.io/badge/Nmap-006400?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-BF1E2D?style=flat-square" />
+  <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square" />
+</div>
+
 <hr />
 
-### 📜 Certifications
-* 🎓 **TryHackMe:** [Jr Pentester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PXYLNWXCDP.pdf)
-* 🎓 **TryHackMe:** [Cyber Security 101](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YCBQEA4QTU.pdf)
-* 🛡️ **Red Team Leaders:** [CCEP (Certified Cyber Ethics Professional)](https://courses.redteamleaders.com/exam-completion/b7ab073a8b03a313)
+### 🏆 Milestone Achievements
+* 🎖️ **Junior Penetration Tester** (TryHackMe Certified)
+* 🎖️ **Cyber Security 101** (TryHackMe Certified)
+* 🎖️ **CCEP** (Certified Cyber Ethics Professional - Red Team Leaders)
 
 <hr />
 
+### 📈 Activity & Impact
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=5ymb&show_icons=true&theme=radical&count_private=true" alt="5ymb's Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5ymb&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-### 🤝 Connect & Collaborate
-I’m always open to collaborating on **CTF teams**, **TryHackMe rooms**, or small open-source security projects. 
+<hr />
 
-* **Looking for:** Red Team collaborations.
-* **Contact:** DM me on [LinkedIn](https://www.linkedin.com/in/abdulqader-deawaly-5b161536b/) or open an issue!
+### 📣 Let's Connect!
+I am actively looking to collaborate on **CTF teams**, **Security Research**, and **Red Team projects**. If you're looking for a dedicated teammate with a positive attitude, let’s talk!
+
+* 💬 **Ask me about:** Java-based crypto tools, TCP/IP, or the best gaming setup.
+* 📫 **Reach out:** My [LinkedIn](https://www.linkedin.com/in/abdulqader-deawaly-5b161536b/) inbox is always open!
