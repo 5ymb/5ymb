@@ -60,14 +60,6 @@ I’m a very **outgoing person** and I love meeting new people in the tech commu
 
 <hr />
 
-### 📊 My Progress
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=5ymb&show_icons=true&theme=radical&count_private=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5ymb&layout=compact&theme=radical" />
-</p>
-
-<hr />
 
 ### 🤝 Want to work together?
 I am always looking for **CTF teams** or people to study with. If you want a teammate who is hard-working and friendly, just send me a message!
