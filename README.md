@@ -63,12 +63,6 @@ I am a dedicated **Cybersecurity Student** with a passion for understanding how 
 
 <hr />
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=5ymb&show_icons=true&theme=radical" alt="5ymb's Stats" />
-</p>
-
----
 
 ### 🤝 Connect & Collaborate
 I’m always open to collaborating on **CTF teams**, **TryHackMe rooms**, or small open-source security projects. 
