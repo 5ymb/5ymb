@@ -29,22 +29,29 @@ I’m a very **outgoing person** and I love meeting new people in the tech commu
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>💻 Coding</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h4>🌐 Networking</h4>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Cisco-005A70?style=for-the-badge&logo=cisco&logoColor=white" />
+    </td>
+    <td width="34%" valign="top">
+      <h4>🛡️ Tools I Use</h4>
+      <img src="https://img.shields.io/badge/Nmap-006400?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark" /><br>
+      <img src="https://img.shields.io/badge/Metasploit-BF1E2D?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Packet_Tracer-005A70?style=flat-square" />
     </td>
   </tr>
 </table>
 
-<br />
+<hr />
 
 <div align="center">
   <h4>🛡️ Tools I Use</h4>
@@ -59,7 +66,7 @@ I’m a very **outgoing person** and I love meeting new people in the tech commu
 ### 🏆 Certifications
 * 🎖️ **[Junior Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PXYLNWXCDP.pdf)** (TryHackMe)
 * 🎖️ **[Cyber Security 101](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YCBQEA4QTU.pdf)** (TryHackMe)
-* 🎖️ **[CCEP](https://courses.redteamleaders.com/exam-completion/b7ab073a8b03a313)** (Certified Cyber Ethics Professional)
+* 🎖️ **[CCEP](https://courses.redteamleaders.com/exam-completion/b7ab073a8b03a313)** (Certified Cybersecurity Educator Professional)
 
 <hr />
 
