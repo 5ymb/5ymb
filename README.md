@@ -53,16 +53,6 @@ I’m a very **outgoing person** and I love meeting new people in the tech commu
 
 <hr />
 
-<div align="center">
-  <h4>🛡️ Tools I Use</h4>
-  <img src="https://img.shields.io/badge/Nmap-006400?style=flat-square" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-BF1E2D?style=flat-square" />
-  <img src="https://img.shields.io/badge/Packet_Tracer-005A70?style=flat-square" />
-</div>
-
-<hr />
-
 ### 🏆 Certifications
 * 🎖️ **[Junior Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PXYLNWXCDP.pdf)** (TryHackMe)
 * 🎖️ **[Cyber Security 101](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YCBQEA4QTU.pdf)** (TryHackMe)
