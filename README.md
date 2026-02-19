@@ -27,29 +27,29 @@ I’m a very **outgoing person** and I love meeting new people in the tech commu
 
 ### 🛠️ Skills & Tools
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>💻 Coding</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    </td>
-    <td width="33%" valign="top">
-      <h4>🌐 Networking</h4>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Cisco-005A70?style=for-the-badge&logo=cisco&logoColor=white" />
-    </td>
-    <td width="34%" valign="top">
-      <h4>🛡️ Tools I Use</h4>
-      <img src="https://img.shields.io/badge/Nmap-006400?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark" /><br>
-      <img src="https://img.shields.io/badge/Metasploit-BF1E2D?style=flat-square" /><br>
-      <img src="https://img.shields.io/badge/Packet_Tracer-005A70?style=flat-square" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <p>
+    <img src="https://img.shields.io/badge/-Coding-black?style=flat&logo=codeforces&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/-Networking-black?style=flat&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cisco-005A70?style=flat-square&logo=cisco&logoColor=white" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/-Security_Tools-black?style=flat&logo=target&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nmap-006400?style=flat-square" />
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark" />
+    <img src="https://img.shields.io/badge/Metasploit-BF1E2D?style=flat-square" />
+    <img src="https://img.shields.io/badge/Packet_Tracer-005A70?style=flat-square" />
+  </p>
+</div>
 
 <hr />
 
