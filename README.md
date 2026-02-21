@@ -57,7 +57,7 @@ I’m a very **outgoing person** and I love meeting new people in the tech commu
 ### 🏆 Certifications
 * 🎖️ **[Junior Penetration Tester](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-PXYLNWXCDP.pdf)** (TryHackMe)
 * 🎖️ **[Cyber Security 101](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-YCBQEA4QTU.pdf)** (TryHackMe)
-* 🎖️ **[CCEP](https://courses.redteamleaders.com/exam-completion/b7ab073a8b03a313)** (Certified Cybersecurity Educator Professional)
+* 🎖️ **[CCEP](https://courses.redteamleaders.com/exam-completion/b7ab073a8b03a313)** (Red Team Leaders)
 
 <hr />
 
